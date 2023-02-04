@@ -3,7 +3,7 @@ Real Estate Tokenization Project
 
 ## [Metrina Website](https://www.metrina.ir/)
 
-## [Whitepaper](Metrina Whitepaper.pdf)
+## [Whitepaper](Metrina%20Whitepaper.pdf)
 
 ## [API specification](API.md)
 
