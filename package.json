@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0",
+    "@openzeppelin/hardhat-upgrades": "^1.22.0",
+    "chai": "^4.3.7",
+    "ethlint": "^1.2.5",
+    "hardhat": "^2.12.4",
+    "hardhat-gas-reporter": "^1.0.9",
+    "hardhat-network-helpers": "^0.0.1",
+    "mariadb": "^3.0.2",
+    "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2"
+  }
+}
